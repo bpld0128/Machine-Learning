@@ -1,0 +1,1 @@
+In this file, we talk about Bayesian System identification of a harmonic oscillator using Probabilistic Programming. We consider the spring-mass-damper system and use probabilistic programming to infer the mass, spring constant, damping, and initial velocity of a Mass-Spring-Damper system, given only noisy measurements of that system.
